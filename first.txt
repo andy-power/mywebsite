@@ -7,3 +7,4 @@ mainf1
 d12
 d1
 d11
+same line from main
